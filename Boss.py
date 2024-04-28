@@ -7,6 +7,8 @@ from FindEle_tools import check_ele_xpath
 from time import sleep
 
 '''
+使用谷歌浏览器和谷歌自动化驱动。
+
 ！输入自己的手机号，在登录界面手动验证发送验证码，《验证码需要在控制台输入》。
 如果不登陆需要注释行self.login_boss()
 
